@@ -1,4 +1,4 @@
-🧩 My Custom Widget Plugin
+#🧩 My Custom Widget Plugin
 
 Overview
 This is a simple WordPress plugin that adds a custom widget to display recent posts on your site. It’s easy to use and can be added to any widget area.
