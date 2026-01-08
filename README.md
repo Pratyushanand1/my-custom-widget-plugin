@@ -2,7 +2,7 @@
 
 ---
 
-![Plugin Banner](https://images.unsplash.com/photo-1584433149441-e6224b2e6b30)
+![Plugin Banner](https://images.unsplash.com/photo-1484417894907-623942c8ee29)
 
 # Overview
 This is a simple WordPress plugin that adds a custom widget to display recent posts on your site. It’s easy to use and can be added to any widget area.
